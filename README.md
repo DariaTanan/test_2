@@ -1,1 +1,3 @@
 # test_2
+# making some changes to a readme file.
+# following the Microsoft GitHub training...
